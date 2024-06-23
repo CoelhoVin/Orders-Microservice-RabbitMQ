@@ -39,3 +39,5 @@ API REST permite consultar as seguintes informações:
   * RabbitMQ
   * Docker
 
+
+Projeto criado com base nas instruções oferecidas pelo canal Build & Run
