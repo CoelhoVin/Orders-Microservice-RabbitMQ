@@ -22,11 +22,14 @@ Um microserviço que consome dados de uma fila RabbitMQ e armazena as informaç�
 ## REST API
 
 API REST permite consultar as seguintes informações:
-    * Valor total do pedido
-    * Quantidade de Pedidos por Cliente
-    * Lista de pedidos realizados por cliente
+* Valor total do Cliente
+* Valor total do pedido
+* Quantidade de Pedidos por Cliente
+* Lista de pedidos realizados por cliente
 
-    ![image](https://github.com/CoelhoVin/Orders-Microservice-RabbitMQ/assets/129123809/583b0d15-5f97-48e1-bfbd-6759fb41f044)
+![image](https://github.com/CoelhoVin/Orders-Microservice-RabbitMQ/assets/129123809/82ae81b6-da93-45fc-b69d-ee838d0e0f7e, "Response API")
+
+
 
 
 ## Tecnologias Utilizadas:
